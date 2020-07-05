@@ -1,0 +1,14 @@
+/* 
+Theme Name: Test
+Author: Melissa Loggins
+*/
+
+body {
+    background-color: #DCDCDC;
+}
+
+header {
+    background: #fff;
+    width: 100%;
+    height: 100px;
+}
